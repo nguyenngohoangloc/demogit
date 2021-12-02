@@ -1,2 +1,3 @@
 sample text
 add new line
+add another new line
